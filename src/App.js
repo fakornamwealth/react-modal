@@ -1,9 +1,7 @@
 import "./App.css";
-import Modal from './Components/Modal/Modal'
+import Modal from "./Components/Modal/Modal.jsx";
 
 function App() {
-
-
   return (
     <>
       <Modal />
